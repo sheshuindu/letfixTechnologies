@@ -1,0 +1,113 @@
+#mu-contact .container{
+    padding:0;
+    width: 100%;
+  }
+
+  #mu-contact .row{
+    padding:0;
+    width: 100%;
+  }
+
+#mu-contact-content{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.mu-contact-content {
+  width: 80vw;
+  margin: auto;
+}
+
+.mu-contact-background{
+    width: 100%;
+    opacity:0.4;
+}
+
+.mu-contact-banner{
+    width: 100%;
+}
+
+.mu-contact-banner .mu-contact-detail{
+    position: absolute;
+    width: 100%;
+    top: 40%;
+}
+
+.mu-contact-detail li{
+    text-align: center;
+    padding: 0;
+}
+
+.mu-contact-detail img{
+    text-align: center;
+    padding: 0;
+    width: 58px;
+}
+
+.mu-contact-detail img:hover{
+  text-align: center;
+  padding: 0;
+  width: 64px;
+}
+
+#mu-contact-content .mu-contact-content .row .col-md-6 .mu-contact-right iframe{
+  width: 80%;
+  height: 300px;
+  padding-bottom: 20px;
+}
+
+.main-contact-container{
+  margin-top:40px;
+  margin-bottom: 40px;
+}
+
+.mapouter{
+  height:500px;
+  width:500px;
+  }
+.gmap_canvas {
+  overflow:hidden;
+  background:none!important;
+  height:500px;
+  width:100%;
+}
+
+.mu-contact-address table td{
+  padding: 10px;
+  font-size: 1em;
+  vertical-align: top;
+}
+
+.mu-contact-address table td span{
+  color: #03989e;
+}
+
+.contactform table tr td{
+  vertical-align: top;
+}
+
+.contactform table tr td{
+  padding: 4px;
+}
+
+.contactform table{
+  width: 100%;
+}
+
+.contactform table tr td input,textarea{
+  width: 100%;
+  border: 2px solid #03989e;
+  border-radius: 4px;
+}
+
+.contactform .mu-post-btn{
+  background-color: #03989e;
+  color: white;
+  border-radius: 5px;
+}
+
+.contactform .mu-post-btn:hover{
+  background-color: #545454;
+  color: white;
+}
+
